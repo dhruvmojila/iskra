@@ -1,0 +1,2 @@
+# iskra
+technical_magazine
